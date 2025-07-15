@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "adhocmatch"
+version = "0.1.0"
+description = "Recomendação de consultores e pareceristas com LLMs e embeddings"
+authors = [{ name="Seu Nome", email="seu@email.com" }]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "langchain>=0.2.0",
+    "langchain-openai",
+    "sentence-transformers",
+    "pandas",
+    "pyarrow",
+    "structlog",
+    "openai",
+    "tqdm"
+]
+
+[project.scripts]
+adhocmatch = "adhocmatch.cli:main"

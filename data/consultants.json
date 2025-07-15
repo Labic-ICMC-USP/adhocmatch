@@ -1,0 +1,212 @@
+[
+  {
+    "consultant_id": "c001",
+    "desc_short": "Especialista em IoT e redes de sensores",
+    "desc_full": "Professor com pesquisas voltadas à Internet das Coisas, redes de sensores sem fio e sua aplicação em ambientes inteligentes, incluindo agricultura de precisão.",
+    "area": "IoT e Sensoriamento",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c002",
+    "desc_short": "Pesquisadora em processamento de linguagem natural jurídico",
+    "desc_full": "Atua com NLP voltado ao direito, incluindo jurimetria, sumarização automática e análise de jurisprudência.",
+    "area": "Direito Computacional",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c003",
+    "desc_short": "Engenheiro especialista em logística urbana e sistemas inteligentes",
+    "desc_full": "Foco em otimização de rotas, cidades inteligentes e planejamento de mobilidade com IA.",
+    "area": "Logística Inteligente",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c004",
+    "desc_short": "Especialista em reconhecimento de fala e emoções",
+    "desc_full": "Investiga emoções em voz e fala espontânea para aplicações em saúde e educação.",
+    "area": "Computação Afectiva",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c005",
+    "desc_short": "Cientista de dados em ecologia computacional",
+    "desc_full": "Trabalha com rastreamento de fauna e sensores remotos em unidades de conservação.",
+    "area": "Ecologia Computacional",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c006",
+    "desc_short": "Especialista em grafos e anonimização de redes complexas",
+    "desc_full": "Pesquisa privacidade em grafos e redes sociais, com foco em análise segura.",
+    "area": "Privacidade e Segurança",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c007",
+    "desc_short": "Pesquisador em educação e mineração de dados",
+    "desc_full": "Atua com análise de engajamento de estudantes em ambientes virtuais de aprendizagem.",
+    "area": "Educação e IA",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c008",
+    "desc_short": "Especialista em saúde pública e IA para epidemiologia",
+    "desc_full": "Trabalha com modelos preditivos para doenças e campanhas de vacinação.",
+    "area": "Saúde Digital",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c009",
+    "desc_short": "Especialista em música computacional e IA generativa",
+    "desc_full": "Explora geração automática de áudio e trilhas personalizadas com IA.",
+    "area": "Criatividade Computacional",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c010",
+    "desc_short": "Professor em ciência política computacional",
+    "desc_full": "Pesquisa análise de redes sociais e discurso político com machine learning.",
+    "area": "Ciência Política Computacional",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c011",
+    "desc_short": "Cientista da computação com foco em IA responsável",
+    "desc_full": "Estuda explicabilidade, justiça e transparência em sistemas de decisão automatizada.",
+    "area": "IA Responsável",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c012",
+    "desc_short": "Engenheiro com experiência em manutenção preditiva",
+    "desc_full": "Atua com séries temporais e sensores para turbinas eólicas e energia limpa.",
+    "area": "Energia Renovável e IoT",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c013",
+    "desc_short": "Analista de discurso político com NLP",
+    "desc_full": "Explora retórica, mudança de narrativa e análise semântica de falas públicas.",
+    "area": "Ciência de Dados Políticos",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c014",
+    "desc_short": "Especialista em simulação baseada em agentes",
+    "desc_full": "Foco em modelagem de sistemas urbanos e dinâmicas populacionais com agentes.",
+    "area": "Simulação e Sistemas Complexos",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c015",
+    "desc_short": "Desenvolvedor de dashboards para dados abertos",
+    "desc_full": "Trabalha com transparência pública e visualização de dados governamentais.",
+    "area": "Transparência e Visualização de Dados",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c016",
+    "desc_short": "Fonoaudióloga com experiência em IA para TEA",
+    "desc_full": "Estuda sinais de fala e padrões vocais de crianças com autismo.",
+    "area": "Saúde e Fonoaudiologia Computacional",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c017",
+    "desc_short": "Pesquisador em moderação de conteúdo e linguagem tóxica",
+    "desc_full": "Foco em jogos online, mediação digital e modelos de detecção de abuso textual.",
+    "area": "IA para Mediação Digital",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c018",
+    "desc_short": "Desenvolvedor de sistemas de alfabetização digital",
+    "desc_full": "Cria assistentes interativos e gamificados para alfabetização de adultos.",
+    "area": "Educação Inclusiva",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c019",
+    "desc_short": "Especialista em visualização de impacto ambiental",
+    "desc_full": "Trabalha com NLP e relatórios técnicos para extração de indicadores ambientais.",
+    "area": "Sustentabilidade e Processamento de Linguagem",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c020",
+    "desc_short": "Pesquisador em análise de sentimentos em textos educacionais",
+    "desc_full": "Aplica modelos supervisionados para avaliar emoções de alunos em ambientes virtuais.",
+    "area": "Educação e Dados",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c021",
+    "desc_short": "Professor em engenharia civil computacional",
+    "desc_full": "Especialista em sensores estruturais e análise de integridade de barragens.",
+    "area": "Engenharia Civil Computacional",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c022",
+    "desc_short": "Especialista em plágio e verificação de código",
+    "desc_full": "Atua com análise semântica de código-fonte e detecção de padrões de similaridade.",
+    "area": "Engenharia de Software e Educação",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c023",
+    "desc_short": "Pesquisador em inclusão digital e acessibilidade",
+    "desc_full": "Desenvolve interfaces vocais adaptadas a sotaques regionais e populações vulneráveis.",
+    "area": "Tecnologia Social",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c024",
+    "desc_short": "Especialista em ética computacional",
+    "desc_full": "Investiga vieses e impactos sociais de modelos preditivos e sistemas de recomendação.",
+    "area": "IA Responsável",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c025",
+    "desc_short": "Consultor em rastreamento de fauna e IA ecológica",
+    "desc_full": "Utiliza redes neurais para análise de imagens em reservas ambientais.",
+    "area": "Ecologia Computacional",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c026",
+    "desc_short": "Especialista em previsão de demandas hospitalares",
+    "desc_full": "Foco em análise preditiva, saúde pública e gestão de emergências médicas.",
+    "area": "Saúde e Previsão",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c027",
+    "desc_short": "Pesquisadora em recomendação de conteúdo cultural",
+    "desc_full": "Trabalha com recomendação baseada em perfil emocional e preferências de mídia.",
+    "area": "Recomendação e Emoção",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c028",
+    "desc_short": "Especialista em impacto climático e cadeias logísticas",
+    "desc_full": "Analisa eventos climáticos extremos e sua influência em cadeias de suprimento.",
+    "area": "Logística e Clima",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c029",
+    "desc_short": "Pesquisadora em jurimetria e linguagem jurídica",
+    "desc_full": "Explora uso de LLMs para sumarização de decisões e análise de jurisprudência.",
+    "area": "Direito Computacional",
+    "metadata": {}
+  },
+  {
+    "consultant_id": "c030",
+    "desc_short": "Engenheiro com foco em redes complexas e privacidade",
+    "desc_full": "Desenvolve métodos de anonimização e preservação de identidade em redes de comunicação.",
+    "area": "Privacidade e Segurança",
+    "metadata": {}
+  }
+]

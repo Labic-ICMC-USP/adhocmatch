@@ -1,0 +1,212 @@
+[
+  {
+    "project_id": "proj001",
+    "desc_short": "Análise de redes sociais para previsão de crises políticas",
+    "desc_full": "Este projeto investiga o uso de técnicas de NLP e grafos para monitorar redes sociais em tempo real, com o objetivo de prever instabilidades e crises em contextos políticos sensíveis.",
+    "area": "Ciência Política Computacional",
+    "keywords": ["NLP", "redes sociais", "análise de grafos", "crises políticas"]
+  },
+  {
+    "project_id": "proj002",
+    "desc_short": "Reconhecimento de emoções em voz para apoio a terapias",
+    "desc_full": "Propõe-se o desenvolvimento de um sistema inteligente capaz de reconhecer emoções em falas humanas, utilizando deep learning e sinais acústicos para auxiliar terapias psicológicas.",
+    "area": "Computação Afectiva",
+    "keywords": ["emoções", "voz", "deep learning", "psicologia", "terapia"]
+  },
+  {
+    "project_id": "proj003",
+    "desc_short": "Otimização de logística urbana com aprendizado por reforço",
+    "desc_full": "Este projeto propõe um modelo baseado em reinforcement learning para otimização de rotas logísticas em cidades inteligentes, considerando congestionamento e pegada de carbono.",
+    "area": "Logística Inteligente",
+    "keywords": ["logística", "reforço", "cidades inteligentes", "sustentabilidade"]
+  },
+  {
+    "project_id": "proj004",
+    "desc_short": "Geração automática de resumos jurídicos com LLMs",
+    "desc_full": "Explora o uso de Large Language Models (LLMs) para gerar resumos automáticos de decisões judiciais, visando reduzir a carga de leitura em escritórios jurídicos.",
+    "area": "Direito Computacional",
+    "keywords": ["LLM", "direito", "resumo automático", "jurimetria"]
+  },
+  {
+    "project_id": "proj005",
+    "desc_short": "Monitoramento ambiental com drones e visão computacional",
+    "desc_full": "Desenvolve um sistema embarcado para drones com câmeras e IA embarcada, capaz de detectar mudanças ambientais, queimadas e degradação de vegetação em tempo real.",
+    "area": "Geotecnologias e IA",
+    "keywords": ["drones", "visão computacional", "meio ambiente", "monitoramento"]
+  },
+  {
+    "project_id": "proj006",
+    "desc_short": "Análise de sentimentos em textos educacionais",
+    "desc_full": "Avalia o sentimento e engajamento de estudantes em plataformas de aprendizagem online, utilizando técnicas de análise textual e classificação supervisionada.",
+    "area": "Educação e IA",
+    "keywords": ["sentimento", "educação online", "text mining", "engajamento"]
+  },
+  {
+    "project_id": "proj007",
+    "desc_short": "Privacidade em grafos de redes de comunicação",
+    "desc_full": "Propõe métodos de anonimização e preservação de privacidade em grafos de redes de comunicação, com foco em proteção de identidade e análise topológica segura.",
+    "area": "Privacidade e Segurança",
+    "keywords": ["grafos", "anonimização", "segurança", "comunicação"]
+  },
+  {
+    "project_id": "proj008",
+    "desc_short": "Uso de IA para previsão de evasão escolar",
+    "desc_full": "Desenvolve modelos preditivos baseados em histórico acadêmico, perfil socioeconômico e interações em plataformas para antecipar casos de evasão escolar.",
+    "area": "Educação e Dados",
+    "keywords": ["evasão escolar", "previsão", "machine learning", "educação básica"]
+  },
+  {
+    "project_id": "proj009",
+    "desc_short": "Classificação automática de fake news sobre saúde pública",
+    "desc_full": "Este projeto busca identificar e classificar automaticamente notícias falsas relacionadas à saúde, especialmente em campanhas de vacinação e surtos epidemiológicos.",
+    "area": "Saúde Digital",
+    "keywords": ["fake news", "saúde pública", "classificação", "verificação de fatos"]
+  },
+  {
+    "project_id": "proj010",
+    "desc_short": "Geração de música personalizada com IA generativa",
+    "desc_full": "Investiga o uso de modelos generativos para criação de trilhas musicais personalizadas com base no humor, contexto ou perfil de usuário.",
+    "area": "Criatividade Computacional",
+    "keywords": ["música", "IA generativa", "personalização", "audio synthesis"]
+  },
+  {
+    "project_id": "proj011",
+    "desc_short": "Modelagem de tráfego urbano com simulações baseadas em agentes",
+    "desc_full": "Este projeto utiliza simulações baseadas em agentes para representar e prever o comportamento do tráfego urbano em grandes centros, incorporando dados em tempo real e comportamento humano.",
+    "area": "Simulação e Sistemas Complexos",
+    "keywords": ["tráfego", "simulação", "agentes", "sistemas urbanos"]
+  },
+  {
+    "project_id": "proj012",
+    "desc_short": "Detecção de plágio em códigos fonte com embeddings semânticos",
+    "desc_full": "Desenvolve uma ferramenta para detecção de plágio em códigos de programação, usando embeddings semânticos e análise de similaridade estrutural.",
+    "area": "Engenharia de Software e Educação",
+    "keywords": ["plágio", "código", "embeddings", "educação"]
+  },
+  {
+    "project_id": "proj013",
+    "desc_short": "Predição de falhas em turbinas eólicas com sensores IoT",
+    "desc_full": "Este projeto visa prever falhas em turbinas eólicas com base em dados de sensores e séries temporais, aplicando redes neurais e aprendizado contínuo.",
+    "area": "Energia Renovável e IoT",
+    "keywords": ["turbinas", "falhas", "IoT", "manutenção preditiva"]
+  },
+  {
+    "project_id": "proj014",
+    "desc_short": "Análise de discurso de lideranças políticas com NLP",
+    "desc_full": "Aplica técnicas de NLP para mapear padrões de discurso, mudança de narrativa e manipulação retórica em falas de líderes políticos.",
+    "area": "Ciência de Dados Políticos",
+    "keywords": ["NLP", "discurso", "análise política", "retórica"]
+  },
+  {
+    "project_id": "proj015",
+    "desc_short": "Recomendação de conteúdo cultural com base em perfis afetivos",
+    "desc_full": "Utiliza aprendizado profundo e análise afetiva para recomendar filmes, livros e músicas baseando-se no estado emocional do usuário.",
+    "area": "Recomendação e Emoção",
+    "keywords": ["recomendação", "emoções", "conteúdo cultural", "IA afetiva"]
+  },
+  {
+    "project_id": "proj016",
+    "desc_short": "Detecção de fraudes em sistemas previdenciários",
+    "desc_full": "Desenvolve modelos supervisionados e não supervisionados para identificar padrões de fraude em solicitações de benefícios previdenciários públicos.",
+    "area": "Governança Digital",
+    "keywords": ["fraude", "previdência", "detecção de anomalias", "dados governamentais"]
+  },
+  {
+    "project_id": "proj017",
+    "desc_short": "Reconhecimento de padrões de fala em crianças com TEA",
+    "desc_full": "Investiga o uso de reconhecimento de padrões fonológicos e prosódicos para auxiliar o diagnóstico precoce de Transtorno do Espectro Autista.",
+    "area": "Saúde e Fonoaudiologia Computacional",
+    "keywords": ["TEA", "fala", "infância", "IA na saúde"]
+  },
+  {
+    "project_id": "proj018",
+    "desc_short": "Visualização interativa de dados abertos governamentais",
+    "desc_full": "Criação de um dashboard interativo e acessível para exploração de dados abertos de políticas públicas, com foco em transparência e participação cidadã.",
+    "area": "Transparência e Visualização de Dados",
+    "keywords": ["dados abertos", "dashboard", "governo", "transparência"]
+  },
+  {
+    "project_id": "proj019",
+    "desc_short": "Assistente virtual para alfabetização de adultos",
+    "desc_full": "Desenvolve um sistema conversacional multimodal para apoiar adultos em processo de alfabetização, com personalização e gamificação.",
+    "area": "Educação Inclusiva",
+    "keywords": ["alfabetização", "assistente virtual", "gamificação", "educação"]
+  },
+  {
+    "project_id": "proj020",
+    "desc_short": "Extração automática de indicadores ambientais em textos técnicos",
+    "desc_full": "Este projeto usa NLP para extrair automaticamente indicadores ambientais de relatórios técnicos e documentos de impacto ambiental.",
+    "area": "Sustentabilidade e Processamento de Linguagem",
+    "keywords": ["meio ambiente", "extração de informação", "relatórios", "NLP"]
+  },
+  {
+    "project_id": "proj021",
+    "desc_short": "Previsão de colheitas agrícolas com imagens de satélite",
+    "desc_full": "Este projeto utiliza aprendizado profundo e imagens de satélite para estimar o rendimento de colheitas em grandes plantações, otimizando a logística e o planejamento agrícola.",
+    "area": "Agricultura de Precisão",
+    "keywords": ["satélite", "colheita", "deep learning", "agricultura"]
+  },
+  {
+    "project_id": "proj022",
+    "desc_short": "Geração de avatares sintéticos com identidade protegida",
+    "desc_full": "Desenvolve modelos generativos para criar avatares fotorrealistas com aparência fictícia, preservando a identidade real do usuário em interações online.",
+    "area": "Privacidade e Mídia Sintética",
+    "keywords": ["avatares", "deepfake", "privacidade", "modelos generativos"]
+  },
+  {
+    "project_id": "proj023",
+    "desc_short": "Detecção de anomalias em sensores de barragens",
+    "desc_full": "Aplica técnicas de detecção de anomalias em dados de sensores estruturais para prevenir rompimentos e monitorar barragens em tempo real.",
+    "area": "Engenharia Civil Computacional",
+    "keywords": ["sensores", "anomalias", "barragens", "monitoramento"]
+  },
+  {
+    "project_id": "proj024",
+    "desc_short": "Modelos de linguagem para apoio a redações do ENEM",
+    "desc_full": "Desenvolve um assistente inteligente baseado em LLMs que auxilia estudantes na construção de redações, oferecendo feedback sobre coerência, argumentação e gramática.",
+    "area": "Educação e Linguagem Natural",
+    "keywords": ["redação", "ENEM", "LLM", "educação"]
+  },
+  {
+    "project_id": "proj025",
+    "desc_short": "Rastreamento de fauna com visão computacional",
+    "desc_full": "Utiliza câmeras de trilha e modelos de visão computacional para rastrear animais silvestres e mapear rotas migratórias em reservas ambientais.",
+    "area": "Ecologia Computacional",
+    "keywords": ["fauna", "visão computacional", "rastreamento", "ecologia"]
+  },
+  {
+    "project_id": "proj026",
+    "desc_short": "Predição de demanda hospitalar em emergências",
+    "desc_full": "Combina dados históricos e eventos sazonais para prever a demanda por leitos hospitalares e otimizar o planejamento de emergência em unidades públicas.",
+    "area": "Saúde e Previsão",
+    "keywords": ["leitos", "emergência", "previsão", "hospitais"]
+  },
+  {
+    "project_id": "proj027",
+    "desc_short": "Recomendações éticas em sistemas de IA sensíveis",
+    "desc_full": "Explora diretrizes e modelos para gerar justificativas éticas e transparentes em recomendações automatizadas em áreas como saúde, crédito e justiça.",
+    "area": "IA Responsável",
+    "keywords": ["ética", "recomendação", "explicabilidade", "decisão automatizada"]
+  },
+  {
+    "project_id": "proj028",
+    "desc_short": "Análise de impacto climático em cadeias logísticas",
+    "desc_full": "Avalia como eventos climáticos extremos afetam cadeias de suprimento usando dados históricos e modelagem de risco geoespacial.",
+    "area": "Logística e Clima",
+    "keywords": ["clima", "logística", "riscos", "resiliência"]
+  },
+  {
+    "project_id": "proj029",
+    "desc_short": "Inclusão digital com assistentes vocais locais",
+    "desc_full": "Criação de assistentes vocais acessíveis para populações de baixa escolaridade em comunidades rurais, com reconhecimento de fala adaptado a sotaques regionais.",
+    "area": "Tecnologia Social",
+    "keywords": ["assistente vocal", "inclusão", "fala", "rural"]
+  },
+  {
+    "project_id": "proj030",
+    "desc_short": "Filtragem de linguagem tóxica em jogos online",
+    "desc_full": "Desenvolve modelos especializados para detectar e moderar linguagem ofensiva em tempo real durante partidas online, com foco em jovens jogadores.",
+    "area": "IA para Mediação Digital",
+    "keywords": ["moderação", "toxidade", "jogos", "linguagem ofensiva"]
+  }
+]

@@ -1,0 +1,926 @@
+[
+  {
+    "affinity_score": 0.9,
+    "justification": "Minha experiência em pesquisa e análise de redes sociais e discurso político com machine learning apresenta uma forte conexão com o projeto. A utilização de técnicas de NLP e grafos para monitorar redes sociais em tempo real e prever instabilidades políticas é uma aplicação direta das habilidades que desenvolvi.",
+    "topics_overlap": [
+      "redes sociais",
+      "NLP",
+      "machine learning",
+      "discurso político",
+      "previsão de crises"
+    ],
+    "possible_conflicts": [
+      "Nenhum conflito aparente, pois o projeto está focado em uma área de estudo específica e não apresenta relação direta com interesses pessoais ou profissionais conflitantes"
+    ],
+    "suggested_role": "Avaliador principal",
+    "consultant_id": "c010",
+    "project_id": "proj001"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "Experiência em análise semântica de falas públicas pode ser aplicada à compreensão de narrativas em redes sociais, embora o foco em NLP e grafos seja novo.",
+    "topics_overlap": [
+      "análise semântica",
+      "redes sociais",
+      "narrativa"
+    ],
+    "possible_conflicts": [
+      "uso de dados de redes sociais para fins políticos"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c013",
+    "project_id": "proj001"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em investigar emoções em voz e fala espontânea, com aplicações em saúde.",
+    "topics_overlap": [
+      "emoções",
+      "fala",
+      "saúde",
+      "deep learning",
+      "sinais acústicos"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c004",
+    "project_id": "proj002"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em aplicar modelos supervisionados para avaliar emoções em ambientes virtuais apresenta uma forte conexão com o uso de deep learning para reconhecimento de emoções em falas humanas.",
+    "topics_overlap": [
+      "emoções",
+      "deep learning",
+      "análise de sentimentos"
+    ],
+    "possible_conflicts": [
+      "nenhum conflito aparente"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c020",
+    "project_id": "proj002"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "O projeto envolve otimização de rotas e cidades inteligentes, ambos temas que tenho experiência. O uso de reinforcement learning também é um tópico de grande interesse na minha área de expertise.",
+    "topics_overlap": [
+      "otimização de rotas",
+      "cidades inteligentes",
+      "reinforcement learning",
+      "logística",
+      "pegada de carbono"
+    ],
+    "possible_conflicts": [
+      "nenhum conflito aparente"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c003",
+    "project_id": "proj003"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "Experiência em análise de eventos climáticos extremos e influência em cadeias de suprimento pode ser aplicada à avaliação de modelos que consideram fatores como congestionamento e pegada de carbono, embora o foco seja em logística urbana.",
+    "topics_overlap": [
+      "logística",
+      "cadeias de suprimento",
+      "eventos climáticos",
+      "otimização"
+    ],
+    "possible_conflicts": [
+      "Uso de tecnologias específicas pode não ser familiaridade direta"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c028",
+    "project_id": "proj003"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em NLP voltado ao direito, incluindo jurimetria, sumarização automática e análise de jurisprudência.",
+    "topics_overlap": [
+      "NLP",
+      "jurimetria",
+      "sumarização automática",
+      "análise de jurisprudência",
+      "LLMs"
+    ],
+    "possible_conflicts": [
+      "Uso de LLMs pode substituir profissionais do direito"
+    ],
+    "suggested_role": "Avaliador principal",
+    "consultant_id": "c002",
+    "project_id": "proj004"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em explorar uso de LLMs para sumarização de decisões e análise de jurisprudência, diretamente relacionada ao projeto.",
+    "topics_overlap": [
+      "LLMs",
+      "sumarização de decisões",
+      "análise de jurisprudência"
+    ],
+    "possible_conflicts": [
+      "Uso de LLMs para fins jurídicos pode levantar questões sobre precisão e confiabilidade"
+    ],
+    "suggested_role": "Avaliador principal",
+    "consultant_id": "c029",
+    "project_id": "proj004"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "Experiência em NLP e relatórios técnicos para extração de indicadores ambientais pode ser aplicada na análise de dados de sensores e imagens para detecção de mudanças ambientais.",
+    "topics_overlap": [
+      "IA",
+      "análise de dados",
+      "indicadores ambientais",
+      "drones"
+    ],
+    "possible_conflicts": [
+      "conflito de interesse em desenvolvimento de sistemas embarcados"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c019",
+    "project_id": "proj005"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em análise de imagens com redes neurais e interesse em reservas ambientais, o que se alinha bem com a detecção de mudanças ambientais e degradação de vegetação.",
+    "topics_overlap": [
+      "análise de imagens",
+      "redes neurais",
+      "IA",
+      "mudanças ambientais",
+      "vegetação"
+    ],
+    "possible_conflicts": [
+      "desenvolvimento de sistemas embarcaods pode estar fora da área de expertise"
+    ],
+    "suggested_role": "Avaliador especialista em IA e análise de imagens",
+    "consultant_id": "c025",
+    "project_id": "proj005"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "A avaliação de emoções em voz e fala espontânea pode ser relacionada à análise de sentimentos em textos, uma vez que ambos envolvem a compreensão de estados emocionais. A experiência com saúde e educação também se alinha com o contexto de plataformas de aprendizagem online.",
+    "topics_overlap": [
+      "análise emocional",
+      "educação",
+      "saúde mental",
+      "plataformas de aprendizagem"
+    ],
+    "possible_conflicts": [
+      "utilização de métodos distintos de análise (voz e fala vs. texto)"
+    ],
+    "suggested_role": "avaliador colaborador",
+    "consultant_id": "c004",
+    "project_id": "proj006"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em aplicar modelos supervisionados para avaliar emoções em ambientes virtuais",
+    "topics_overlap": [
+      "análise textual",
+      "classificação supervisionada",
+      "engajamento de estudantes",
+      "plataformas de aprendizagem online"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c020",
+    "project_id": "proj006"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em pesquisa de privacidade em grafos e redes sociais, com foco em análise segura, está diretamente relacionada ao projeto.",
+    "topics_overlap": [
+      "privacidade em grafos",
+      "análise segura",
+      "anonimização",
+      "redes de comunicação"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c006",
+    "project_id": "proj007"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Desenvolvo métodos de anonimização e preservação de identidade em redes de comunicação, o que está diretamente relacionado ao foco do projeto em proteção de identidade e análise topológica segura em grafos de redes de comunicação.",
+    "topics_overlap": [
+      "anonimização",
+      "preservação de privacidade",
+      "redes de comunicação",
+      "proteção de identidade",
+      "análise topológica"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c030",
+    "project_id": "proj007"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em análise de engajamento de estudantes em ambientes virtuais de aprendizagem é relevante para entender interações em plataformas. Modelagem preditiva também é aplicável a evasão escolar.",
+    "topics_overlap": [
+      "engajamento de estudantes",
+      "ambientes virtuais de aprendizagem",
+      "modelagem preditiva",
+      "evasão escolar"
+    ],
+    "possible_conflicts": [
+      "conflitos de interesse em casos de evasão relacionados a políticas de instituições de ensino"
+    ],
+    "suggested_role": "Avaliador Principal",
+    "consultant_id": "c007",
+    "project_id": "proj008"
+  },
+  {
+    "affinity_score": 0.7,
+    "justification": "O projeto envolve sistemas de decisão automatizada, o que tem relação com meus estudos em explicabilidade, justiça e transparência. Embora o foco seja evasão escolar, os modelos preditivos implicam tomada de decisão automatizada.",
+    "topics_overlap": [
+      "sistemas de decisão automatizada",
+      "modelos preditivos",
+      "justiça",
+      "transparência"
+    ],
+    "possible_conflicts": [
+      "viés nos dados de histórico acadêmico e perfil socioeconômico"
+    ],
+    "suggested_role": "avaliador colaborador",
+    "consultant_id": "c011",
+    "project_id": "proj008"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em modelos preditivos para doenças e campanhas de vacinação pode ser aplicada na detecção de notícias falsas relacionadas à saúde, especialmente em áreas como a classificação de informações",
+    "topics_overlap": [
+      "saúde",
+      "campanhas de vacinação",
+      "modelos preditivos",
+      "classificação de informações"
+    ],
+    "possible_conflicts": [
+      "conflitos de interesse em saúde pública",
+      "viés em modelos de aprendizado de máquina"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c008",
+    "project_id": "proj009"
+  },
+  {
+    "affinity_score": 0.3,
+    "justification": "Embora meu foco seja em jogos online e mediação digital, tenho experiência em modelos de detecção de abuso textual, o que pode ser tangencialmente relacionado à detecção de notícias falsas. No entanto, a aplicação específica em notícias de saúde não é uma área diretamente relacionada à minha expertise.",
+    "topics_overlap": [
+      "detecção de texto",
+      "modelos de detecção"
+    ],
+    "possible_conflicts": [
+      "nenhum conflito aparente"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c017",
+    "project_id": "proj009"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em explorar geração automática de áudio e trilhas personalizadas com IA, diretamente relacionada à criação de trilhas musicais personalizadas",
+    "topics_overlap": [
+      "modelos generativos",
+      "trilhas musicais personalizadas",
+      "IA",
+      "perfil de usuário"
+    ],
+    "possible_conflicts": [
+      "Uso de dados de usuário para treinamento de modelos"
+    ],
+    "suggested_role": "Avaliador principal",
+    "consultant_id": "c009",
+    "project_id": "proj010"
+  },
+  {
+    "affinity_score": 0.2,
+    "justification": "Embora meu foco seja explicabilidade, justiça e transparência em sistemas de decisão automatizada, o projeto envolve sistemas automatizados, mas não diretamente relacionado à tomada de decisão ou vieses, o que distancia um pouco do meu núcleo de expertise.",
+    "topics_overlap": [
+      "sistemas de decisão automatizada",
+      "personalização"
+    ],
+    "possible_conflicts": [
+      "uso de dados de usuário para personalização pode levantar questões de privacidade e viés"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c011",
+    "project_id": "proj010"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em planejamento de mobilidade e otimização de rotas com uso de inteligência artificial, alinhada com simulações de tráfego urbano e comportamento humano.",
+    "topics_overlap": [
+      "simulações baseadas em agentes",
+      "tráfego urbano",
+      "inteligência artificial",
+      "planejamento de mobilidade",
+      "otimização de rotas"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c003",
+    "project_id": "proj011"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em modelagem de sistemas urbanos e dinâmicas populacionais com agentes.",
+    "topics_overlap": [
+      "simulações baseadas em agentes",
+      "sistemas urbanos",
+      "comportamento humano"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c014",
+    "project_id": "proj011"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "Experiência com modelos de detecção de abuso textual pode ser aplicada à detecção de plágio, mas foco principal é em jogos online e mediação digital",
+    "topics_overlap": [
+      "análise de similaridade",
+      "detecção de padrões",
+      " embeddings semânticos"
+    ],
+    "possible_conflicts": [
+      "uso de técnicas semelhantes em contextos diferentes"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c017",
+    "project_id": "proj012"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em análise semântica de código-fonte e detecção de padrões de similaridade",
+    "topics_overlap": [
+      "análise semântica",
+      "detecção de padrões",
+      "similaridade",
+      "embeddings semânticos"
+    ],
+    "possible_conflicts": [
+      "desenvolvimento de ferramentas de detecção de plágio pode ter implicações éticas"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c022",
+    "project_id": "proj012"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "O projeto envolve análise de dados de sensores e aplicação de técnicas de aprendizado de máquina, áreas relacionadas à minha experiência com redes de sensores sem fio e Internet das Coisas, embora o foco seja em turbinas eólicas e não diretamente em agricultura de precisão.",
+    "topics_overlap": [
+      "sensores",
+      "redes neurais",
+      "aprendizado de máquina",
+      "análise de séries temporais"
+    ],
+    "possible_conflicts": [
+      "nenhum conflito aparente"
+    ],
+    "suggested_role": "avaliador colaborador",
+    "consultant_id": "c001",
+    "project_id": "proj013"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência direta com séries temporais e sensores para turbinas eólicas, além de conhecimento em técnicas de aprendizado de máquina.",
+    "topics_overlap": [
+      "séries temporais",
+      "sensores",
+      "turbinas eólicas",
+      "redes neurais",
+      "aprendizado contínuo"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "Avaliador Principal",
+    "consultant_id": "c012",
+    "project_id": "proj013"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em análise de discurso político e uso de machine learning para avaliar padrões em redes sociais e discurso político.",
+    "topics_overlap": [
+      "NLP",
+      "discurso político",
+      "análise de padrões",
+      "manipulação retórica"
+    ],
+    "possible_conflicts": [
+      "Viés político, generalização excessiva"
+    ],
+    "suggested_role": "Avaliador principal",
+    "consultant_id": "c010",
+    "project_id": "proj014"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em análise semântica e retórica de falas públicas alinha-se fortemente com o projeto, que visa mapear padrões de discurso e manipulação retórica em líderes políticos.",
+    "topics_overlap": [
+      "NLP",
+      "retórica",
+      "mudanção de narrativa",
+      "manipulação retórica",
+      "falas públicas"
+    ],
+    "possible_conflicts": [
+      "Viés político, generalização excessiva de resultados"
+    ],
+    "suggested_role": "Avaliador principal",
+    "consultant_id": "c013",
+    "project_id": "proj014"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em aplicar modelos supervisionados para avaliar emoções em ambientes virtuais apresenta uma forte conexão com a análise afetiva. A utilização de aprendizado profundo para recomendar conteúdo baseado no estado emocional do usuário alinha-se com minhas habilidades em modelos supervisionados.",
+    "topics_overlap": [
+      "análise afetiva",
+      "aprendizado profundo",
+      "estado emocional",
+      "modelos supervisionados"
+    ],
+    "possible_conflicts": [
+      "utilização de dados pessoais para análise emocional"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c020",
+    "project_id": "proj015"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em recomendação baseada em perfil emocional e preferências de mídia, utilizando técnicas de análise afetiva.",
+    "topics_overlap": [
+      "análise afetiva",
+      "recomendação",
+      "perfil emocional",
+      "aprendizado profundo"
+    ],
+    "possible_conflicts": [
+      "conflitos de dados pessoais",
+      "viés algorítmico"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c027",
+    "project_id": "proj015"
+  },
+  {
+    "affinity_score": 0.2,
+    "justification": "Minha experiência é focada em modelagem de sistemas urbanos e dinâmicas populacionais com agentes, o que não está diretamente relacionado à identificação de padrões de fraude em benefícios previdenciários públicos.",
+    "topics_overlap": [
+      "modelagem",
+      "padrões"
+    ],
+    "possible_conflicts": [
+      "conflito de interesse em casos de fraude envolvendo instituições públicas"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c014",
+    "project_id": "proj016"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em análise semântica de código-fonte e detecção de padrões de similaridade pode ser aplicada na identificação de padrões de fraude em solicitações de benefícios previdenciários públicos, pois envolve a análise de dados e detecção de anomalias.",
+    "topics_overlap": [
+      "análise de dados",
+      "detecção de padrões",
+      "fraude",
+      "benefícios previdenciários"
+    ],
+    "possible_conflicts": [
+      "conhecimento prévio de casos de fraude específicos"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c022",
+    "project_id": "proj016"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Minha experiência em investigar emoções em voz e fala espontânea tem uma forte conexão com o uso de padrões fonológicos e prosódicos para diagnóstico de condições como o Transtorno do Espectro Autista (TEA). A análise da voz e fala pode fornecer pistas importantes para a detecção precoce de TEA.",
+    "topics_overlap": [
+      "análise de voz",
+      "fala espontânea",
+      "padrões fonológicos",
+      "prosódia",
+      "diagnóstico precoce",
+      "Transtorno do Espectro Autista"
+    ],
+    "possible_conflicts": [
+      "potencial conflito de interesse caso tenha trabalhos prévios publicados diretamente relacionados ao diagnóstico de TEA usando métodos semelhantes"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c004",
+    "project_id": "proj017"
+  },
+  {
+    "affinity_score": 0.2,
+    "justification": "Minha experiência é com análise semântica e mudança de narrativa em falas públicas, não diretamente relacionada a padrões fonológicos e prosódicos ou diagnóstico de Transtorno do Espectro Autista.",
+    "topics_overlap": [
+      "análise",
+      "diagnóstico"
+    ],
+    "possible_conflicts": [
+      "desconhecimento da área médica"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c013",
+    "project_id": "proj017"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em trabalhar com transparência pública e visualização de dados governamentais",
+    "topics_overlap": [
+      "transparência pública",
+      "visualização de dados",
+      "políticas públicas",
+      "dados abertos",
+      "participação cidadã"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c015",
+    "project_id": "proj018"
+  },
+  {
+    "affinity_score": 0.3,
+    "justification": "Embora meu foco seja desenvolvimento de interfaces vocais, tenho experiência com populações vulneráveis, o que pode ser tangencialmente relacionado à acessibilidade. No entanto, a natureza do projeto está mais alinhada a interfaces visuais e exploração de dados.",
+    "topics_overlap": [
+      "acessibilidade",
+      "interfaces"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "colaborador",
+    "consultant_id": "c023",
+    "project_id": "proj018"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em criar assistentes interativos e gamificados para alfabetização de adultos",
+    "topics_overlap": [
+      "alfabetização de adultos",
+      "gamificação",
+      "personalização",
+      "sistema conversacional multimodal"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c018",
+    "project_id": "proj019"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em desenvolver interfaces vocais adaptadas a populações vulneráveis, incluindo a possibilidade de aplicação em contextos de alfabetização.",
+    "topics_overlap": [
+      "interfaces vocais",
+      "populações vulneráveis",
+      "alfabetização",
+      "personalização",
+      "gamificação"
+    ],
+    "possible_conflicts": [
+      "conflito de interesses com instituições de ensino ou empresas de tecnologia educacional"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c023",
+    "project_id": "proj019"
+  },
+  {
+    "affinity_score": 0.2,
+    "justification": "Embora meu trabalho seja focado em rastreamento de fauna e sensores remotos em unidades de conservação, não tenho experiência direta com NLP ou extração de indicadores ambientais de textos. No entanto, vejo potencial para aplicação em monitoramento ambiental.",
+    "topics_overlap": [
+      "indicadores ambientais",
+      "monitoramento ambiental"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "colaborador",
+    "consultant_id": "c005",
+    "project_id": "proj020"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em NLP e relatórios técnicos para extração de indicadores ambientais",
+    "topics_overlap": [
+      "NLP",
+      "indicadores ambientais",
+      "relatórios técnicos"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c019",
+    "project_id": "proj020"
+  },
+  {
+    "affinity_score": 0.2,
+    "justification": "Embora tenha experiência com sensores remotos, o foco é em rastreamento de fauna e unidades de conservação, não em aplicações agrícolas.",
+    "topics_overlap": [
+      "sensores remotos",
+      "imagens de satélite"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "colaborador",
+    "consultant_id": "c005",
+    "project_id": "proj021"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "Experiência com redes neurais para análise de imagens, embora em contexto ambiental, pode ser adaptada para agricultura.",
+    "topics_overlap": [
+      "aprendizado profundo",
+      "imagens",
+      "análise"
+    ],
+    "possible_conflicts": [
+      "uso de dados de satélite para fins agrícolas pode conflitar com foco ambiental"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c025",
+    "project_id": "proj021"
+  },
+  {
+    "affinity_score": 0.2,
+    "justification": "Embora meu foco seja em análise segura e privacidade em grafos e redes sociais, o tema de preservação de identidade em interações online tem relação com privacidade, que é tangencial à minha área de expertise.",
+    "topics_overlap": [
+      "privacidade",
+      "identidade online"
+    ],
+    "possible_conflicts": [
+      "uso de dados para treinamento de modelos"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c006",
+    "project_id": "proj022"
+  },
+  {
+    "affinity_score": 0.2,
+    "justification": "Embora meu foco seja explicabilidade, justiça e transparência em sistemas de decisão automatizada, o projeto envolve desenvolvimento de modelos generativos, que podem ter implicações éticas relacionadas à minha área de estudo.",
+    "topics_overlap": [
+      "ética",
+      "privacidade",
+      "modelos de machine learning"
+    ],
+    "possible_conflicts": [
+      "uso de dados para treinamento de modelos",
+      "garantia de privacidade e anonimato"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c011",
+    "project_id": "proj022"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "Experiência em redes de sensores sem fio e aplicação em ambientes inteligentes pode ser relevante para monitoramento em tempo real, mas a especificidade para sensores estruturais e barragens é limitada.",
+    "topics_overlap": [
+      "redes de sensores",
+      "monitoramento em tempo real",
+      "detecção de anomalias"
+    ],
+    "possible_conflicts": [
+      "nenhum conflito aparente"
+    ],
+    "suggested_role": "avaliador colaborador",
+    "consultant_id": "c001",
+    "project_id": "proj023"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "Experiência com séries temporais e sensores, embora seja mais focado em turbinas eólicas e energia limpa, pode ser aplicada em monitoramento de estruturas e detecção de anomalias.",
+    "topics_overlap": [
+      "sensores",
+      "series temporais",
+      "detecção de anomalias",
+      "monitoramento em tempo real"
+    ],
+    "possible_conflicts": [
+      "conflito de interesse em caso de envolvimento direto com empresas de energia limpa competidoras"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c012",
+    "project_id": "proj023"
+  },
+  {
+    "affinity_score": 0.2,
+    "justification": "Embora tenha experiência com NLP, meu foco é em aplicações jurídicas, não em assistência à escrita ou educação geral.",
+    "topics_overlap": [
+      "NLP",
+      "análise de texto"
+    ],
+    "possible_conflicts": [
+      "Uso de LLMs em contextos educacionais pode conflitar com minhas áreas de expertise em direito"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c002",
+    "project_id": "proj024"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em criar assistentes interativos e gamificados para alfabetização de adultos pode ser aplicada ao desenvolvimento de ferramentas de apoio à escrita para estudantes, embora o foco seja diferente.",
+    "topics_overlap": [
+      "alfabetização",
+      "assistentes inteligentes",
+      "ferramentas de apoio"
+    ],
+    "possible_conflicts": [
+      "conflito de interesse com empresas de tecnologia educacional",
+      "conflito com foco em alfabetização de adultos"
+    ],
+    "suggested_role": "colaborador",
+    "consultant_id": "c018",
+    "project_id": "proj024"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência com rastreamento de fauna e sensores remotos em unidades de conservação.",
+    "topics_overlap": [
+      "rastreamento de fauna",
+      "sensores remotos",
+      "unidades de conservação",
+      "visão computacional"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c005",
+    "project_id": "proj025"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência com análise de imagens em reservas ambientais utilizando redes neurais pode ser aplicada ao uso de modelos de visão computacional para rastrear animais silvestres e mapear rotas migratórias.",
+    "topics_overlap": [
+      "visão computacional",
+      "redes neurais",
+      "análise de imagens",
+      "reservas ambientais"
+    ],
+    "possible_conflicts": [
+      "uso de tecnologias similares para fins diferentes"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c025",
+    "project_id": "proj025"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência com modelos preditivos para doenças e campanhas de vacinação, que podem ser adaptados para prever demanda por leitos hospitalares.",
+    "topics_overlap": [
+      "modelos preditivos",
+      "planejamento de emergência",
+      "otimização"
+    ],
+    "possible_conflicts": [
+      "conflitos de dados",
+      "viés nos modelos"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c008",
+    "project_id": "proj026"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em análise preditiva e gestão de emergências médicas",
+    "topics_overlap": [
+      "análise preditiva",
+      "gestão de emergências",
+      "saúde pública",
+      "planejamento"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c026",
+    "project_id": "proj026"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em estudas explicabilidade, justiça e transparência em sistemas de decisão automatizada, com foco em áreas como saúde, crédito e justiça.",
+    "topics_overlap": [
+      "explicabilidade",
+      "justiça",
+      "transparência",
+      "sistemas de decisão automatizada",
+      "saúde",
+      "crédito",
+      "justiça"
+    ],
+    "possible_conflicts": [],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c011",
+    "project_id": "proj027"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em investigar vieses e impactos sociais de modelos preditivos e sistemas de recomendação, diretamente relacionada à avaliação de diretrizes e modelos para gerar justificativas éticas e transparentes em recomendações automatizadas.",
+    "topics_overlap": [
+      "modelos preditivos",
+      "sistemas de recomendação",
+      "ética",
+      "transparência",
+      "justiça",
+      "saúde",
+      "crédito"
+    ],
+    "possible_conflicts": [
+      "conflitos de interesse em projetos que envolvam desenvolvimento de modelos preditivos ou sistemas de recomendação"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c024",
+    "project_id": "proj027"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em NLP para análise de relatórios técnicos e extração de indicadores ambientais, além de familiaridade com modelagem de risco e análise de dados geoespaciais.",
+    "topics_overlap": [
+      "eventos climáticos extremos",
+      "cadeias de suprimento",
+      "dados históricos",
+      "modelagem de risco geoespacial",
+      "indicadores ambientais"
+    ],
+    "possible_conflicts": [
+      "conflitos de interesse em relatórios técnicos de empresas com operações em áreas de alto risco climático"
+    ],
+    "suggested_role": "Avaliador principal",
+    "consultant_id": "c019",
+    "project_id": "proj028"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Minha experiência em analisar eventos climáticos extremos e sua influência em cadeias de suprimento é altamente relevante para este projeto. A utilização de dados históricos e modelagem de risco geoespacial está alinhada com minhas habilidades em lidar com análise de riscos e impactos climáticos em logística.",
+    "topics_overlap": [
+      "eventos climáticos extremos",
+      "cadeias de suprimento",
+      "dados históricos",
+      "modelagem de risco geoespacial"
+    ],
+    "possible_conflicts": [
+      "conflitos de interesse podem surgir se houver vínculos com empresas específicas que dependem de cadeias de suprimento sensíveis a eventos climáticos"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c028",
+    "project_id": "proj028"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em investigar emoções em voz e fala espontânea pode ser aplicada ao desenvolvimento de assistentes vocais que necessitam reconhecer e se adaptar a diferentes sotaques regionais e características da fala em populações de baixa escolaridade.",
+    "topics_overlap": [
+      "reconhecimento de fala",
+      "sotaques regionais",
+      "acessibilidade",
+      "assistentes vocais"
+    ],
+    "possible_conflicts": [
+      "desenvolvimento de tecnologia para populações específicas pode levantar questões sobre generalização e escalabilidade"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c004",
+    "project_id": "proj029"
+  },
+  {
+    "affinity_score": 0.8,
+    "justification": "Experiência em criar assistentes interativos e gamificados para alfabetização de adultos, o que se alinha com a criação de assistentes vocais acessíveis para populações de baixa escolaridade.",
+    "topics_overlap": [
+      "alfabetização de adultos",
+      "assistentes interativos",
+      "acessibilidade",
+      "reconhecimento de fala"
+    ],
+    "possible_conflicts": [
+      "desenvolvimento de tecnologia para populações específicas pode ter restrições de escalabilidade ou generalização"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c018",
+    "project_id": "proj029"
+  },
+  {
+    "affinity_score": 0.9,
+    "justification": "Experiência em modelos de detecção de abuso textual e mediação digital em jogos online",
+    "topics_overlap": [
+      "jogos online",
+      "mediação digital",
+      "modelos de detecção de abuso textual",
+      "linguagem ofensiva"
+    ],
+    "possible_conflicts": [
+      "desenvolvimento de soluções proprietárias para detecção de abuso"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c017",
+    "project_id": "proj030"
+  },
+  {
+    "affinity_score": 0.6,
+    "justification": "Experiência em investigar vieses e impactos sociais de modelos preditivos pode ser aplicada na avaliação de modelos para detectar linguagem ofensiva, especialmente considerando o contexto de impacto em jovens jogadores.",
+    "topics_overlap": [
+      "modelos preditivos",
+      "impactos sociais",
+      "detecção de linguagem ofensiva"
+    ],
+    "possible_conflicts": [
+      "viés nos dados de treinamento",
+      "definição de 'linguagem ofensiva'"
+    ],
+    "suggested_role": "avaliador principal",
+    "consultant_id": "c024",
+    "project_id": "proj030"
+  }
+]

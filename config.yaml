@@ -1,0 +1,15 @@
+llm_provider: "openrouter"
+llm_model: "meta-llama/llama-4-scout"
+llm_endpoint: "https://openrouter.ai/api/v1"
+llm_api_key: ""
+
+sentence_transformer_model: "paraphrase-multilingual-mpnet-base-v2"
+
+top_k: 2
+
+projects_file: "data/projects.json"
+consultants_file: "data/consultants.json"
+consultants_embeddings_file: "data/consultants_with_embeddings.parquet"
+
+system_prompt_folder: "prompts/"
+output_scores_file: "output/top_consultants.json"
